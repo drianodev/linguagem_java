@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/drianodev/Documentos/Linguagem De Programação JAVA/aula 01/.metadata/.plugins/org.eclipse.jdt.core
+1788043888.index
+1865797976.index
+2507598613.index
